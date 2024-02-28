@@ -31,7 +31,7 @@
         <oshi.version>5.8.0</oshi.version>
         <bitwalker.version>1.21</bitwalker.version>
         <jsch.version>0.1.55</jsch.version>
-        <prometheus.version>1.8.1</prometheus.version>
+        <prometheus.version>1.12.2</prometheus.version>
 
 
         <web.build.skip>true</web.build.skip>
